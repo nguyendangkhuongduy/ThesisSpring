@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14ae7e45-ff6a-4ff0-a8e0-78126ca445b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/CheckTheisDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/ThesisPutTopicDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/TopicDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/TopicRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/model/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/model/TopicResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/repository/TopicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/TopicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/TopicServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20220903.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20220903.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/CouncilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/CouncilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/FacultyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/FacultyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/ThesisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/ThesisController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/JwtResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/PasswordChangingDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/PasswordChangingDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/ThesisCreationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/ThesisCreationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/ThesisRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/ThesisRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/ThesisUpdatingDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/ThesisUpdatingDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserCreationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserCreationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserDetailsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserUpdatingDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/dto/UserUpdatingDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/exception/RestResponseEntityExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/exception/RestResponseEntityExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/model/Avatar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/model/Thesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/model/Thesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/repository/AvatarRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/AvatarService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/AvatarServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/CouncilCoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/CouncilCoreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/CouncilCoreServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/CouncilCoreServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/CouncilService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/CouncilService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/FacultyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/FacultyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/FacultyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/FacultyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/ThesisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/ThesisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/ThesisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/ThesisServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duy/thesisManagement/thesis/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1_0_0__Initial.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1_0_0__Initial.sql.dump" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fbutkg8GqHZODs7xO2ODMU32zL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Project/thesis&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="thesis [clean bootRun]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14ae7e45-ff6a-4ff0-a8e0-78126ca445b5" name="Changes" comment="" />
+      <created>1664773328997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664773328997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
